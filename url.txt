@@ -2,3 +2,4 @@ link model:
 https://drive.google.com/drive/folders/16SX11v36dl71F-SjMaQz0-LGhiCxo33k?usp=sharing
 
 link deployment:
+https://p1m2-syauqiyahasna.streamlit.app/
